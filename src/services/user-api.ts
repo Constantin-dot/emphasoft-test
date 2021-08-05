@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL: "http://emphasoft-test-assignment.herokuapp.com/",
+    baseURL: "https://emphasoft-test-assignment.herokuapp.com/",
 });
 
 export const userAPI = {
