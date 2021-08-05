@@ -1,0 +1,15 @@
+.navItem {
+    font-weight: 600;
+    padding: 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #b3b3b3;
+}
+
+.navItem:hover {
+    color: #6495ed;
+}
+
+.active {
+    color: cornflowerblue;
+}
