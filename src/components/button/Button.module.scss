@@ -9,6 +9,10 @@
     border-radius: 999px;
     outline: none;
     background-color: #fff;
+    @media screen and (max-width: 400px) {
+        font-size: 14px;
+        padding: 5px 15px;
+    }
 }
 
 .button:hover {
